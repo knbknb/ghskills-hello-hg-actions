@@ -7,7 +7,8 @@
 
 # Hello GitHub Actions
 
-_Create a GitHub Action and use it in a workflow._
+_Create a GitHub Action and use it in a workflow! 
+:smile:_
 
 <!--
   <<< Author notes: Start of the course >>>
@@ -17,6 +18,7 @@ _Create a GitHub Action and use it in a workflow._
   The start <details> should have `open` as well.
   Do not use quotes on the <details> tag attributes.
 -->
+
 
 <details id=0>
 <summary><h2>Welcome</h2></summary>
@@ -211,7 +213,7 @@ Merge your changes so the action will be a part of the `main` branch.
 <details id=5>
 <summary><h2>Step 5: Trigger the workflow</h2></summary>
 
-_You've now got a fully functioning workflow! :smile:_
+_You've now got a fully functioning workflow! _
 
 Your new action will run any time a pull request has been opened.
 
